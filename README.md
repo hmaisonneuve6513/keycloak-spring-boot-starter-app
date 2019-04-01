@@ -1,3 +1,3 @@
-# Keycloak Spring Boot Demo
+# Keycloak Spring Boot Starter Web Application 
 
-Demo for Spring Boot and Keycloak SSO integration.
+Starter for Spring Boot and Keycloak SSO integration, with no other pupose than case studying.
